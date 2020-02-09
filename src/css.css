@@ -1,0 +1,198 @@
+body,ul,li,p,span,h1,h2,h3,h4,dl,a{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+.list>.d1{
+    width: 100%;
+    height: 0.5rem;
+    background: #00bcd4;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.list>.d1>input{
+    width: 2.79rem;
+    height: 0.33rem;
+    outline: none;
+    border: none;
+}
+.d1>p{
+    font-size: 0.15rem;
+}
+.img1{
+    width: 100%;
+    height: 1.06rem;
+}
+.d3{
+    width: 100%;
+    height: 2.12rem;
+}
+.d3>ul{
+    width: 100%;
+    height: 2.12rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.d3 li{
+    width: 1rem;
+    height: 0.75rem;
+}
+.d3 img{
+    width: 0.53rem;
+    height: 0.52rem;
+    display: block;
+    margin: 0 auto;
+}
+.d3 li>a{
+    display: block;
+    font-size: 0.15rem;
+    color: #000;
+    text-align:  center;
+    margin-top: 0.1rem;
+}
+.d4{
+    width: 100%;
+    height: 0.54rem;
+    border: 1px solid #bbbbbb;
+    display: flex;
+    margin-top: 0.1rem;
+}
+.d4>p{
+    width: 1.98rem;
+    height: 0.54rem;
+    border-right: 1px solid #bbbbbb;
+    font-size: 0.16rem;
+    text-align: center;
+    line-height: 0.54rem;
+}
+.d5{
+    width: 100%;
+    height: 0.1rem;
+    background: #BBBBBB;
+}
+.d6{
+    width: 100%;
+    height: 0.53rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.d6>h1{
+    font-size: 0.17rem;
+    padding-left: 0.1rem;
+}
+.d6>p{
+    font-size: 0.13rem;
+    padding-right: 0.1rem;
+}
+.d7{
+    width: 100%;
+    height: 1.36rem;
+    overflow-x: scroll ;
+}
+.d7>ul{
+    width: 100%;
+    height: 1.36rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.d7 p{
+    text-align: center;
+}
+
+.do>h3{
+    font-size: 0.15rem;
+    margin-top: 0.1rem;
+    margin-left: 0.1rem;
+}
+.ld{
+    width: 100%;
+}
+.ld>ul{
+    width: 100%;
+}
+.ld li{
+    width: 100%;
+    height: 1.31rem;
+    border-bottom:1px solid #bbbbbb;
+    display: flex;
+   align-items: center;
+}
+.ld img{
+    width: 0.9rem;
+    height: 0.9rem;
+}
+.ld h3{
+    font-size: 0.1rem;
+}
+.ld h2{
+    font-size: 0.15rem;
+}
+.ld div{
+    margin-top: 0.14rem;
+    margin-left: 0.1rem;
+}
+.ld h5{
+    color: red;
+}
+.ld h4{
+    color: orange;
+}
+
+
+
+.to1{
+    width: 100%;
+    height: 0.5rem;
+     display: flex;
+     justify-content: space-around;
+     align-items: center;
+}
+.to1 input{
+    width: 3rem;
+    height: 0.3rem;
+    border: none;
+    outline: none;
+    background: #bbbbbb;
+    border-radius: 0.5rem;
+}
+
+
+
+
+.da1{
+    width: 100%;
+    height: 2.17rem;
+}
+.da1>img{
+    width: 100%;
+    height: 2.17rem;
+}
+.dal2{
+    width: 100%;
+    height: 0.47rem;
+    display: flex;
+
+}
+.dal2>p{
+    width: 1.98rem;
+    height: 0.47rem;
+    font-size: 0.11rem;
+    text-align: center;
+    line-height: 0.47rem;
+   color:orange;
+}
+.da>input{
+     width: 3rem;
+     height: 1rem;
+     border: none;
+     color: black;
+     background: orange;
+     font-size: 0.5rem;
+     border-radius: 0.5rem;
+}
